@@ -8,6 +8,13 @@
             "type": "firefox",
             "request": "launch",
             "reAttach": true,
+            "name": "Launch add-on",
+            "addonPath": "${workspaceFolder}"
+        },
+        {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
             "name": "Launch localhost",
             "keepProfileChanges": true,
             "url": "http://localhost/index.html",
@@ -18,7 +25,7 @@
             "request": "launch",
             "reAttach": true,
             "name": "Launch index.html",
-            "file": "${workspaceFolder}/index.html"
+            "file": "${workspaceFolder}/popup.html"
         }
 
     ]
