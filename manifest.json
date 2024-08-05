@@ -1,0 +1,13 @@
+{
+    "name": "gpt-mail-extension",
+    "version": "0.0.1",
+    "description": "Let gpt write your boring mails",
+    "manifest_version": 2,
+    "brower_action":{
+        "default_popup": "popup.html"
+        
+    }
+    
+    
+  }
+  
