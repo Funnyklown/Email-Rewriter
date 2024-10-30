@@ -1,8 +1,6 @@
 # 📧 Email Rewriter for Firefox
 
 [![License](https://img.shields.io/github/license/username/email-rewriter-firefox-extension)](LICENSE)
-[![Version](https://img.shields.io/github/v/release/username/email-rewriter-firefox-extension)](https://github.com/username/email-rewriter-firefox-extension/releases)
-[![Issues](https://img.shields.io/github/issues/username/email-rewriter-firefox-extension)](https://github.com/username/email-rewriter-firefox-extension/issues)
 
 **Email Rewriter for Firefox** is a browser extension designed to simplify and enhance your email drafting experience by rewriting, rephrasing, or refining your messages. Whether you’re aiming for a more formal tone, need to shorten your response, or want to make your message clearer, this extension has you covered!
 
